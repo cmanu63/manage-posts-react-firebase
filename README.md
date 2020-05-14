@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It manages posts using a realtime Firebase database. 
+The posts stored in the databases can be upvoted or downvoted in real time.
+New posts can be added to the list. The React components are styled with react-bootstrap.
+
 ## Available Scripts
 
 In the project directory, you can run:
